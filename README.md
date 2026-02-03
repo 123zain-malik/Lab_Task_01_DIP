@@ -3,6 +3,7 @@
  Roll Number:2023-SE-02
 
 Prompt
+
 *"Write a Python program using OpenCV and Matplotlib to do the following for a colored image uploaded in Google Colab:
 * Read any colored image uploaded by the user.
 * Display its Red, Green, and Blue components separately.
